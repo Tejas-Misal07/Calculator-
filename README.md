@@ -30,7 +30,6 @@ This project can perform basic arithmetic operations with a clean UI design.
 
 
 
----
 
 ##  Project Structure
 
