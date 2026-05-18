@@ -1,5 +1,4 @@
 # Calculator-
-#  Calculator Project
 
 A simple and responsive Calculator built using **HTML, CSS, and JavaScript**.  
 This project can perform basic arithmetic operations with a clean UI design.
